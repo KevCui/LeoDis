@@ -8,7 +8,7 @@ created:  27 Nov 2016
 
 LeoDis
 ======
-[LEO](https://dict.leo.org/) (meaning Link Everything Online) is an online dictionary. It supports 8 different language translations to German. This script is a wrapper to get fetch search results from LEO and show them in CLI. (yeah, I know wrapper is not proper. If there is an API support, it'll be really awesome :neckbeard:)
+[LEO](https://dict.leo.org/) (meaning Link Everything Online) is an online dictionary. It supports 8 different language translations to German. This script is a wrapper to fetch search results from LEO and then show them in CLI. _(yep, I know wrapper is not proper. If there is an API support, it'll be really awesome :neckbeard:)_
 
 ### Support dictionary
 * :gb: Englisch ⇔ Deutsch
