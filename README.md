@@ -13,7 +13,7 @@ LeoDis
 ### Support dictionary
 * :gb: Englisch ⇔ Deutsch
 * :fr: Französisch ⇔ Deutsch
-* :es; Spanisch ⇔ Deutsch
+* :es: Spanisch ⇔ Deutsch
 * :it: Italienisch ⇔ Deutsch
 * :cn: Chinesisch ⇔ Deutsch
 * :ru: Russisch ⇔ Deutsch
