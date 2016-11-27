@@ -23,6 +23,7 @@ LeoDis
 ### Requirement
 * beautifulsoup4: [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.cruoftware/BeautifulSoup/bs4/doc/)
 * texttable: [https://github.com/foutaise/texttable/](https://github.com/foutaise/texttable/)
+* requests: [http://docs.python-requests.org/en/master/](http://docs.python-requests.org/en/master/)
 
 ### Installation
 * pip install -r requirements.txt

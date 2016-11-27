@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import os
-import requests
 import argparse
+
+# Check requests
+try:
+    import requests
+except ImportError:
+    print("It seams `requests` is not installed. Please pip install requests")
 
 # Check texttable
 try:
