@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import os
+import os, sys
 import argparse
 
 # Check requests
@@ -8,18 +8,21 @@ try:
     import requests
 except ImportError:
     print("It seams `requests` is not installed. Please pip install requests")
+    sys.exit(1)
 
 # Check texttable
 try:
     import texttable
 except ImportError:
     print("It seams `texttable` is not installed. Please pip install texttable")
+    sys.exit(1)
 
 # Check BeautifulSoup
 try:
     from bs4 import BeautifulSoup
 except ImportError:
     print("It seams `BeautifulSoup` is not installed. Please pip install beautifulsoup4")
+    sys.exit(1)
 
 # Parse args
 parser = argparse.ArgumentParser()
